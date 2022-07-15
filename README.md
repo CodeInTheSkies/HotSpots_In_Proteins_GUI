@@ -13,3 +13,14 @@
 
 In addition to the graphical interfaces, the files include a [user guide](/UserGuide/HSpot_Detect_GUI_USER_GUIDE.pdf) and [test data.](/TestData/TEST_DATA_PROTEIN_FGFs.txt)
 
+### Screen shots
+
+#### Main HSpot GUI
+![Main GUI](/Images/ScreenShot_of_HotSpotGUI.png)
+
+#### F-Slider
+
+This slider can be used to change the notch frequency of the BPN filter, and thereby perform
+manual tuning of the filter. [Details](/UserGuide/HSpot_Detect_GUI_USER_GUIDE.pdf)
+
+![F-Slider GUI](/Images/ScreenShot_of_HotSpotFSlider.png)
