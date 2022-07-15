@@ -1,5 +1,5 @@
 ## Identifying HotSpots In Proteins
- GUI-based software to identify hot-spot locations in proteins using the [Resonant Recognition Model (RRM).](https://pubmed.ncbi.nlm.nih.gov/7851912/)
+ GUI-based software for identifying hot-spot locations in proteins using the [Resonant Recognition Model (RRM).](https://pubmed.ncbi.nlm.nih.gov/7851912/)
  
  ### Citations
  The package accompanies, and is related to, the following two papers:
