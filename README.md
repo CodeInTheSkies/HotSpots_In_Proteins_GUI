@@ -2,7 +2,7 @@
  GUI-based software for identifying hot-spot locations in proteins using the [Resonant Recognition Model (RRM).](https://pubmed.ncbi.nlm.nih.gov/7851912/)
  
  ### Citations
- The package accompanies, and is related to, the following two papers:
+ The package accompanies, and is related to, the following two publications:
  1. ["Filter-based methodology for the location of hot spots in proteins and exons in DNA,"](https://pubmed.ncbi.nlm.nih.gov/22410955/) _IEEE Trans. on Biomedical Engineering, vol.59, no. 6, pp. 1598-1609, Jun. 2012._ <br />
    [Preprint PDF](/Preprints/Preprint_2012_TBME.pdf)  <br />
    [Official publication link](https://pubmed.ncbi.nlm.nih.gov/22410955/)
